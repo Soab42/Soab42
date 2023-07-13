@@ -1,3 +1,5 @@
+![cover](WBBlog_KidsCoding.jpg)
+
 - 👋 Hi, I’m @Soab42
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning React and React-native
