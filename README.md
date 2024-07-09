@@ -1,4 +1,6 @@
-![cover](WBBlog_KidsCoding.jpg)
+![image](https://github.com/Soab42/Soab42/assets/108150913/612f7b48-5f33-4c58-a5d3-c57c16a79e80)
+
+
 
 - 👋 Hi, I’m @Soab42
 - 👀 I’m interested in web application development
