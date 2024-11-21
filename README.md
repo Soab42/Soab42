@@ -1,5 +1,5 @@
 # SOAB MAHMUD SYFUDDHIN
-## Senior Front-End Engineer | Technical Solutions Architect
+## Front-End Engineer | Technical Solutions Architect
 
 ```mermaid
 graph LR
