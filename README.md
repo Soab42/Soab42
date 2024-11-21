@@ -1,42 +1,67 @@
-![image](https://github.com/Soab42/Soab42/assets/108150913/612f7b48-5f33-4c58-a5d3-c57c16a79e80)
+<div align="center">
+  <img src="https://github.com/yourusername.png" alt="Profile Picture" width="200" style="border-radius:50%;">
+  
+  # Soab Mahmud
+  
+  **Front-end Developer**
 
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
+  📞 +8801644556543 | 📧 syfuddin@gmail.com | 📍 26/3, Jafrabad, Dhanmondi
+</div>
 
-- 👋 Hi, I’m @Soab42
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning React and React-native
-- 💞️ I’m looking to collaborate on react live project.
-- 📫 How to reach me ...? email-syfuddhin@gmail.com wapp-+8801644556543
+---
 
-<h2 class="heading-element" dir="auto">🌐 Socials:</h2>
-<p dir="auto">
-  <a href="https://web.facebook.com/syfuddhin" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/5534f7b32c55c00965b67f347e15bda0416fece606df5265b87bfaa3509fe31c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f6c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
-  <a href="https://www.linkedin.com/in/soab-mahmud-4a202787" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
-<!--   <a href="https://twitter.com/arifulislam5577" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/2fc85cf3646091660daac9224ef6fcc91f25fbbf6cc729740256a6063183f5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
-  </a> -->
-</p>
+## 👨‍💻 Summary
 
+As a dedicated Front-end Developer with expertise in Next.js, React, and Redux, I have successfully conceptualized and launched innovative applications such as a dynamic Notice Board and a versatile Loan Calculator. My skills in implementing user-friendly interfaces and secure authentication processes, along with a strong proficiency in tools like Tailwind CSS and Firebase, empower me to deliver efficient and high-quality web solutions.
 
-## 📈 My GitHub Stats
-### GitHub Stars
+## 🛠 Skills
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=soab42&show_icons=true&theme=radical)
+\`\`\`
+API | Chrome | CSS | Firebase | Front-end | GitHub | Middleware | Netlify
+Next.js | React-Redux | Redux | Routing | Tailwind | Tailwind CSS | Vercel | VS Code
+\`\`\`
 
-### Top Languages
+## 🎓 Training / Courses
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soab42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Think in a Redux Way - Learn With Sumit
+Course focused on Redux, React-Redux, Redux-Toolkit, Redux-Thunk, RTK Query, and Reselect.
 
+### Reactive Accelerator - Next.js - Learn With Sumit
+Course covering React, React lifecycle, Hooks, React-Query, Context-API, Next.js, and various routing methods.
 
-### GitHub Trophies
+## 🚀 Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=soab42&theme=juicyfresh&no-bg=true" />
+### Notice Board
+**Duration:** 01/2023 - 03/2023
 
+A centralized hub for official notices, circulars, and regulations, streamlining document management processes.
 
+- 🌟 Conceptualized, developed, and launched a dynamic Notice Board platform.
+- 🎛 Implemented an intuitive admin panel for seamless document management.
+- 🔍 Integrated a real-time search feature empowering quick document searches.
+- 📥 Provided users with the option to download or preview documents.
+- 🚀 Included a shortcut guide for instant access to tasks and information.
+- 🔐 Implemented role-based authentication for security and access control.
 
+### Loan Calculator
+**Duration:** 04/2023 - 06/2023
 
+A tool tailored for loan collection, featuring comprehensive functionalities for interest rate calculation and loan analysis.
+
+- 💻 Developed and deployed a versatile Loan Calculator tool.
+- 🧮 Equipped with functionality to compute loan interest rates accurately.
+- 📊 Provided complete analysis of the loan cycle for thorough financial planning.
+- 💰 Included a cash counter for convenient financial calculations.
+- 🔄 Implemented Redux for efficient state management.
+- 🔒 Utilized Firebase authentication for secure user authorization.
+
+---
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
 
