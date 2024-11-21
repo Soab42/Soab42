@@ -20,7 +20,7 @@ mindmap
     Frontend
       React.js
       Next.js
-      TypeScript
+    Backend
     State Management
       Redux
       Context API
@@ -30,16 +30,17 @@ mindmap
     Backend
       Firebase
       REST APIs
-    DevOps
-      Git
-      CI/CD
+     NodeJs
+     ExpressJs
+     PHP
+     Laravel
 ```
 
 ## 🎯 PROFESSIONAL PROFILE
 > "Building scalable, performant web applications with modern technologies"
 
 **Contact Information**
-- 📍 Dhanmondi, Dhaka, Bangladesh
+- 📍 Kushtia, Dhaka, Bangladesh
 - 📱 +8801644556543
 - 📧 syfuddhin@gmail.com
 - 🌐 https://syfuddhin.netlify.app
@@ -47,7 +48,7 @@ mindmap
 ## 💼 FEATURED PROJECTS
 
 ### 1️⃣ Enterprise Notice Board System
-**Role:** Lead Developer | **Timeline:** [Duration]
+**Role:** Lead Developer | **Timeline:** [jan-23 - oct-24 ]
 
 #### System Architecture
 ```mermaid
@@ -82,7 +83,7 @@ flowchart TD
 - Advanced filtering system
 
 ### 2️⃣ Financial Calculator Platform
-**Role:** Full-Stack Developer | **Timeline:** [Duration]
+**Role:** Full-Stack Developer | **Timeline:** [jun-23- dec-23]
 
 #### System Design
 ```mermaid
@@ -153,7 +154,6 @@ pie title Project Performance Improvements
 - **Deployment:** Vercel, Netlify
 
 ### Testing & Quality
-- Jest
 - React Testing Library
 - Lighthouse Audits
 - Performance Monitoring
@@ -197,10 +197,3 @@ mindmap
 - **English:** Professional Working Proficiency
 - **Bengali:** Native Proficiency
 
-## 📜 PROFESSIONAL ENDORSEMENTS
-Available upon request
-
----
-
-*This CV is regularly updated with latest projects and achievements.*
-*Last Updated: [Current Date]*
