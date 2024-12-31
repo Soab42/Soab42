@@ -152,28 +152,6 @@ pie title Project Performance Improvements
 - **CI/CD:** GitHub Actions
 - **Deployment:** Vercel, Netlify
 
-### Testing & Quality
-- React Testing Library
-- Lighthouse Audits
-- Performance Monitoring
-
-## 🌱 CONTINUOUS LEARNING
-
-### Current Focus Areas
-```mermaid
-mindmap
-  root((Learning Path))
-    Performance
-      Core Web Vitals
-      Optimization
-    Architecture
-      Micro-frontends
-      Component Design
-    New Tech
-      Web Assembly
-      Edge Computing
-```
-
 ## 🏆 ACHIEVEMENTS & RECOGNITION
 
 ### Technical Milestones
@@ -186,11 +164,6 @@ mindmap
 - Reduced build time by 30%
 - Enhanced user engagement by 40%
 
-## 🔗 PROFESSIONAL LINKS
-- **Portfolio:** https://syfuddhin.netlify.app
-- **GitHub:** [Username]
-- **LinkedIn:** [Profile]
-- **Technical Blog:** [Blog URL]
 
 ## 🌐 LANGUAGES
 - **English:** Professional Working Proficiency
