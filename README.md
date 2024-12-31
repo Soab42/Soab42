@@ -20,7 +20,6 @@ mindmap
     Frontend
       React.js
       Next.js
-    Backend
     State Management
       Redux
       Context API
