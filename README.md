@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Soab Mahmud</h1>
 <h3 align="center">Team Lead & Full-stack Web Developer | React Enthusiast | AI & Web Applications</h3>
 
-<p align="center">
+<div align="center" style="display: flex; gap: 1rem;">
   <a href="https://syfuddhin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
@@ -15,7 +15,12 @@
   <a href="https://twitter.com/soab42" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
+  <a href="https://facebook.com/syfuddhin" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syfuddhin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -24,18 +29,28 @@
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
-
 <div align="center">
-  <a href="#ecom-setup">
-    <img src="/assets/ecom-setup.png" width="400" alt="E-commerce Full Setup Project" />
-  </a>
-  <a href="#lms-project">
-    <img src="/assets/lms-project.png" width="400" alt="LMS Full Setup Project" />
-  </a>
-  <a href="#ai-dashboard">
-    <img src="/assets/ai-dashboard.png" width="400" alt="AI-Powered Admin Dashboard" />
-  </a>
+  <ul style="list-style: none; display: flex; gap: 1rem; justify-content: center; padding: 0;">
+    <li>
+      <a href="#ecom-setup">
+        <img src="/assets/ecom-setup.png" width="400" alt="E-commerce Full Setup Project" />
+      </a>
+    </li>
+    <li>
+      <a href="#lms-project">
+        <img src="/assets/lms-project.png" width="400" alt="LMS Full Setup Project" />
+      </a>
+    </li>
+    <li>
+      <a href="#ai-dashboard">
+        <img src="/assets/ai-dashboard.png" width="400" alt="AI-Powered Admin Dashboard" />
+      </a>
+    </li>
+  </ul>
 </div>
+
+
+
 
 ---
 
@@ -63,8 +78,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syfuddhin&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syfuddhin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soab42&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soab42&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
