@@ -176,7 +176,3 @@ I'm passionate about creating intelligent digital experiences that combine stunn
 <div align="center">
   <i>💡 "Code is poetry, and every project tells a story" - Soab Mahmud</i>
 </div>
-
-<div align="center">
-  ⭐ From [Soab Mahmud](https://github.com/yourusername)
-</div>
